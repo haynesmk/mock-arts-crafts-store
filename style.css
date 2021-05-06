@@ -15,23 +15,20 @@ header {
     color: blue;
 }
 
-#brushes h2 {
+.item h2{
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+
+#brushes h2 {
     background-color: mediumspringgreen;
 }
 
 #frames h2 {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
     background-color: lightcoral;
 }
 
 #paint h2 {
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
     background-color: skyblue;
 }
